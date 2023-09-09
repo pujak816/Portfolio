@@ -20,16 +20,14 @@ export default function Projects() {
                   <img src={item.img} alt="img" className="rounded-lg" />
                 </div>
               </Link>
-              {/* <div>
-                <img src={item.img} alt="img" className="h-52" />
-              </div> */}
+
               <div className="text-center py-1 ">
                 <h2 className="font-bold text-xl mb-1 tracking-wider text-white">
                   {item.title}
                 </h2>
                 <h3 className="text-xs text-white/80 tracking-wide pb-[4px]">
                   <span className="text-orange-500 font-medium">
-                    Tech-Stack:{" "}
+                    Tech-Stack:
                   </span>
                   {item.tech}
                 </h3>

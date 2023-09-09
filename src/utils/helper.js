@@ -3,8 +3,32 @@ import IPL from "../assets/ipl.png";
 import myntra from "../assets/e-commerce_webApp.png";
 import movie from "../assets/movie.png";
 import portfolio from "../assets/portfolio.png";
+import swiggy from "../assets/swiggy.png";
+import youtube from "../assets/youtube.png";
+import netflix from "../assets/netflix.png";
 
 export const project = [
+  {
+    title: "YouTube Clone",
+    tech: "ReactJs Tailwind",
+    img: youtube,
+    link: "https://youtube-clone-puja.vercel.app/",
+    github: "https://github.com/pujak816/Youtube_Clone",
+  },
+  {
+    title: "Swiggy Clone",
+    tech: "ReactJs Tailwind",
+    img: swiggy,
+    link: "https://swiggy-clone-puja.vercel.app/",
+    github: "https://github.com/pujak816/Swiggy_Clone",
+  },
+  {
+    title: "Netflix Clone",
+    tech: "ReactJs Tailwind",
+    img: netflix,
+    link: "https://netflix-gpt-clone.vercel.app/",
+    github: "https://github.com/pujak816/Netflix-GPT",
+  },
   {
     title: "Kafene Website",
     tech: "HTML CSS JS",
@@ -17,14 +41,14 @@ export const project = [
     tech: "HTML CSS JS",
     img: IPL,
     link: "https://ipl-webpage.glitch.me/",
-    github: "https://glitch.com/edit/#!/ipl-webpage",
+    github: "https://github.com/pujak816/IPL_webPage",
   },
   {
     title: "E-Commerce Web-App",
     tech: "HTML CSS JS",
     img: myntra,
     link: "https://e-commerce-page.glitch.me/index.html",
-    github: "https://glitch.com/edit/#!/e-commerce-page",
+    github: "https://github.com/pujak816/E-commerce",
   },
   {
     title: "Movie Web-App",
@@ -38,7 +62,7 @@ export const project = [
     tech: "ReactJs Tailwind",
     img: portfolio,
     link: "#",
-    github: "#",
+    github: "https://github.com/pujak816/Portfolio",
   },
 ];
 
