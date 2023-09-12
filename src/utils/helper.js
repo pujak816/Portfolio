@@ -19,14 +19,14 @@ export const project = [
     title: "Swiggy Clone",
     tech: "ReactJs Tailwind",
     img: swiggy,
-    link: "https://swiggy-clone-puja.vercel.app/",
+    link: "https://foodapp-clone-puja.vercel.app/",
     github: "https://github.com/pujak816/Swiggy_Clone",
   },
   {
     title: "Netflix Clone",
     tech: "ReactJs Tailwind",
     img: netflix,
-    link: "https://netflix-gpt-clone.vercel.app/",
+    link: "https://movieapp-clone.vercel.app/",
     github: "https://github.com/pujak816/Netflix-GPT",
   },
   {
