@@ -19,7 +19,7 @@ export const project = [
     title: "Swiggy Clone",
     tech: "ReactJs Tailwind",
     img: swiggy,
-    link: "https://foodapp-clone-puja.vercel.app/",
+    link: "https://foodapp-clone.vercel.app/",
     github: "https://github.com/pujak816/Swiggy_Clone",
   },
   {
